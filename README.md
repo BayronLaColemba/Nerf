@@ -14,13 +14,13 @@ Input
 
 Output
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/125385064/219681039-f950f424-8fc0-4f46-9803-637ca5fb262e.png">
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/125385064/219681092-5506cad4-f562-4d0a-9cac-8bebcbe6edde.png">
-<img width="957" alt="image" src="https://user-images.githubusercontent.com/125385064/219681204-31479137-c40d-4d65-ab3d-e7adb576b460.png">
-<img width="965" alt="image" src="https://user-images.githubusercontent.com/125385064/219681277-52000282-9b62-4425-bc7a-abb8d5db2486.png">
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/125385064/219681039-f950f424-8fc0-4f46-9803-637ca5fb262e.png">
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/125385064/219681092-5506cad4-f562-4d0a-9cac-8bebcbe6edde.png">
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/125385064/219681204-31479137-c40d-4d65-ab3d-e7adb576b460.png">
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/125385064/219681277-52000282-9b62-4425-bc7a-abb8d5db2486.png">
 
   obj Export
- <img width="829" alt="image" src="https://user-images.githubusercontent.com/125385064/219683707-2a502b9c-50a3-42da-9b1a-5df0e4195562.png">
+ <img width="480" alt="image" src="https://user-images.githubusercontent.com/125385064/219683707-2a502b9c-50a3-42da-9b1a-5df0e4195562.png">
 
 
 
