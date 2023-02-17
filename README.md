@@ -1,7 +1,7 @@
 # Nerf
 Implementacion de instant-ngp 
 
-#Test 1 [Alita]
+# Test 1 [Alita]
 
 
 img size: 2880 *4640
@@ -35,7 +35,7 @@ Output
 
 
 
-#Test 2 [Xbox]
+# Test 2 [Xbox]
 
 
 img size: 3200 *1240
